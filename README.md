@@ -1,0 +1,1 @@
+This repo holds the report on the geometry of Chain-of-Thought as part of the 2024 PIBBSS fellowship. It is currently work in progress, feel free to reach out (@japhba) if you are interested in collaborating! A talk of the work is available on [YouTube](https://www.youtube.com/watch?v=FbRZbzP5mYk).
